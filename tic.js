@@ -217,3 +217,8 @@ let tic1 = document.getElementById("tic1");
 
 			}
 		}
+
+		function forloop()
+		{
+
+		}
