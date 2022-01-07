@@ -220,7 +220,7 @@ let tic1 = document.getElementById("tic1");
 
 		function forloop()
 		{
-			for(inti =0; i <= 10;i++)
+			for(i =0; i <= 10;i++)
 			{
 
 			}
